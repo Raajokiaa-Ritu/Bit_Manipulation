@@ -45,7 +45,7 @@
 -all pair xor sum in binary sequence using xor
 -all pair xor sum in any sequence using xor(bitwise counting)
 -all pair and sum in any sequence(/binary)
--all pair xor sum in subarray(binary)
--all pair and sum in subarray(binary)
+-all pair xor sum in subarray(/binary)
+-all pair and sum in subarray(/binary)
 -prefix or properties
 -prefix and properties
