@@ -1,0 +1,51 @@
+---bit manipulation tricks and hacks----
+==========beginner topics===========
+------------part-01---------
+0. base conversion any base-> any base
+1. bitwise operators ( &, |, ^ )
+2. binary shift
+3. number of bits in binary representation
+4. print/find all bits
+5. number of set bits
+6. set the i-th bit
+7. remove the i-th set bit
+8. check the i-th bit set or not
+9. toggle(/flip) the i-th bit
+10.toggle all bits
+-----------------part-02----------------
+0. reset the rightmost set bit
+1. find power of two(2^n)
+2. check power of 2(2^n) or not
+3. check n is even or odd
+4. divide and multiply by 2^n
+5. remainder by 2^n
+6. find the smallest number which is greater than n
+7. sum of all bits from a to b
+8. check power of 4(4^n) or not
+9. print all subset
+10.print all subset of length k
+------------part-03--------------
+0. xor properties
+1. check a and b equal or not(xor)
+2. swap a and b (xor)
+3. find non-duplicate number( xor )
+4. minimum bit to convert a into b( xor)
+5. return the rightmost 1
+6. all pair sum (xor)
+7. maximum xor pair from a to b ( xor )
+8. binary digit palindrome
+--------------------------------
+--------------------------------
+===============advanced topics===========
+
+-subset sum queries
+-subset sum of length k
+-knapsack using subset
+-prefix xor quries
+-all pair xor sum in binary sequence using xor
+-all pair xor sum in any sequence using xor(bitwise counting)
+-all pair and sum in any sequence(/binary)
+-all pair xor sum in subarray(binary)
+-all pair and sum in subarray(binary)
+-prefix or properties
+-prefix and properties
